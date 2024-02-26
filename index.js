@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = "Invite your friends!";
+const statusMessages = ["Invite your friends!"];
 
 
 let currentIndex = 0;
